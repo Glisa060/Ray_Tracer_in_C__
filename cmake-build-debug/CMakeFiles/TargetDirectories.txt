@@ -1,0 +1,3 @@
+C:/Users/Milan/Documents/CLionProjects/Ray Tracer in C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Milan/Documents/CLionProjects/Ray Tracer in C++/cmake-build-debug/CMakeFiles/Ray_Tracer_in_C__.dir
+C:/Users/Milan/Documents/CLionProjects/Ray Tracer in C++/cmake-build-debug/CMakeFiles/edit_cache.dir
